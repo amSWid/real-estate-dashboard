@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Estate Analysis Dashboard
 
 Dashboard analisis market real estate menggunakan Streamlit.
@@ -20,3 +21,7 @@ Dashboard analisis market real estate menggunakan Streamlit.
 
 ## Created By
 S.Widjaja
+=======
+# main.py
+Real Estate Analysis Project 
+>>>>>>> 549fdee7ee3be13f77ea8221bc89a00aca10c987

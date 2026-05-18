@@ -61,7 +61,7 @@ st.markdown("""
 **Before COVID (2006–2019)** vs  
 **After COVID / Recovery (2020–2023)**
 
-Market demand vs economic value of each residential type
+#Market demand vs economic value of each residential type
             
 """)
 
