@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Streamlit local config
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.dbS
+
+# Large/raw data
+Real_Estate_Sales_2001-2022_GL.csv
