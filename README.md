@@ -1,27 +1,17 @@
-<<<<<<< HEAD
-# Real Estate Analysis Dashboard
+# 🏠 Real Estate Analysis Dashboard
 
 Dashboard analisis market real estate menggunakan Streamlit.
 
-## Features
-- Before COVID vs After COVID analysis
-- Property price trend
+## 📊 Features
+- Before vs After COVID analysis
+- Property price trends
 - Town investment analysis
-- Residential market demand
-- Property heatmap
-- Most active towns
 
-## Tools
+## 🛠️ Tools
 - Python
-- Pandas
 - Streamlit
+- Pandas
 - Plotly
-- Matplotlib
-- Seaborn
 
-## Created By
+## 👨‍💻 Created By
 S.Widjaja
-=======
-# main.py
-Real Estate Analysis Project 
->>>>>>> 549fdee7ee3be13f77ea8221bc89a00aca10c987
