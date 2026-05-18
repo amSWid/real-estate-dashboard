@@ -16,7 +16,7 @@ __pycache__/
 
 # OS junk
 .DS_Store
-Thumbs.dbS
+Thumbs.db
 
 # Large/raw data
 Real_Estate_Sales_2001-2022_GL.csv
